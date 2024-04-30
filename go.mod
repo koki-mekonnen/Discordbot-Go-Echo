@@ -5,7 +5,7 @@ go 1.21.5
 require (
 	github.com/bwmarrin/discordgo v0.28.1
 	github.com/labstack/echo v3.3.10+incompatible
-	github.com/labstack/echo/v4 v4.12.0
+	
 )
 
 require (
